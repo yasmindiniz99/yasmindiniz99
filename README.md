@@ -2,7 +2,7 @@
 💻 I'm currently learning a lot. <br>
  &nbsp;&nbsp;&nbsp;  → HTML5 and CSS3 <br>
  &nbsp;&nbsp;&nbsp;  → JS <br>
-💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a>
+💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a>
 <div align="center">
   <a href="https://github.com/yasmindiniz99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindiniz99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
