@@ -1,12 +1,13 @@
-<h1 align="center">Hello, my name's Yasmin Diniz</h1>
-<h3 align="center">A Brazilian explorer about the technology world</h3>
+<h1 align="center">Hi👋, my name's Yasmin Diniz</h1>
+<h3 align="center">A new dev has born</h3>
+<p align="center">Made in Brazil</p>
 <br>
 <br>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="Girl-in-Computer">
-<p align="center"><strong>💻 I'm currently learning a lot.<br>
+<h3 align="center">💻 I'm currently learning a lot.<br>
 → HTML5 and CSS3 <br> 
 → JS <br>
-💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a> </strong></p>
+💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a> </h3>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <div align="center">
   <a href="https://github.com/yasmindiniz99">
