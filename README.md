@@ -1,29 +1,35 @@
-## Hello, my name's Yasmin Diniz <br>
-💻 I'm currently learning a lot. <br>
- &nbsp;&nbsp;&nbsp;  → HTML5 and CSS3 <br>
- &nbsp;&nbsp;&nbsp;  → JS <br>
-💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a>
+<h1 align="center">Hello, my name's Yasmin Diniz</h1>
+<h3 align="center">A Brazilian explorer about the technology world</h3>
+<br>
+<br>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="Girl-in-Computer">
+<p align="center"><strong>💻 I'm currently learning a lot.<br>
+→ HTML5 and CSS3 <br> 
+→ JS <br>
+💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a> </strong></p>
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <div align="center">
   <a href="https://github.com/yasmindiniz99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindiniz99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindiniz99&layout=compact&langs_count=7&theme=cobalt"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmindiniz99&show_icons=true&theme=radical&layout=compact" alt="yasmindiniz99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmindiniz99&show_icons=true&theme=radical" min-width="400px" max-width="400px" width="400px" alt="yasmindiniz99" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmindiniz99&theme=radical" min-width="400px" max-width="400px" width="400px" alt="yasmindiniz99" /></p>
   </a>
 </div>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+ 
+ <h3>Language tools</h3>
+ 
   <a href="https://github.com/yasmindiniz99">
-  <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yas-CSS" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Yas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yas-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   &nbsp;
-  <img align="center" alt="Yas-JS" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Yas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
 
   <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/934061649869021206/949010638993256498/GIFPAL-20220303152822.gif">
 </div>
   
-  <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" width="820">
-  
-  ### Contact me
+  ### Connect with me
  
 <div>
 
