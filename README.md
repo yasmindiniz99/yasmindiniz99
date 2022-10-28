@@ -7,7 +7,7 @@
 <h3 align="center">💻 I'm currently learning a lot.<br>
 → HTML5 and CSS3 <br> 
 → JS <br>
-💙 Full Stack Developer student at &nbsp; <a href="https://www.estacio.br/" target="_blank"><img align="center" alt="logo faculdade estacio" width="60" src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo.png"></a> </h3>
+💙 Full Stack Developer student at &nbsp; <a href="https://www.estacio.br/" target="_blank"><img align="center" alt="logo faculdade estacio" width="90" src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo.png"></a> </h3>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <div align="center">
   <a href="https://github.com/yasmindiniz99">
@@ -22,9 +22,11 @@
  
   <a href="https://github.com/yasmindiniz99">
   <img align="center" alt="Yas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yas-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Yas-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   &nbsp;
-  <img align="center" alt="Yas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Yas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Yas-Pyhton" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          
   </a>
 
   <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/934061649869021206/949010638993256498/GIFPAL-20220303152822.gif">
@@ -35,10 +37,10 @@
 <div>
 
   <a href="https://www.youtube.com/channel/UCcE0SxCRxQeto7U_qDfINnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/yasmindiniz99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/yasdiniz99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/yasmindiniz99" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yasmindiniz99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmin-diniz-dos-santos-553707229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yasmindiniz99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
  
