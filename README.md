@@ -7,7 +7,7 @@
 <h3 align="center">💻 I'm currently learning a lot.<br>
 → HTML5 and CSS3 <br> 
 → JS <br>
-💚 Starting my dev studies at &nbsp; <a href="https://www.betrybe.com/" target="_blank"><img align="center" alt="trybe" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a> </h3>
+💙 Full Stack Developer student at &nbsp; <a href="https://www.estacio.br/" target="_blank"><img align="center" alt="logo faculdade estacio" width="60" src="https://static.wixstatic.com/media/4c2984_e8ba75672946447b9c0718f98d806496~mv2.png/v1/fit/w_522%2Ch_132%2Cal_c/file.png"></a> </h3>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <div align="center">
   <a href="https://github.com/yasmindiniz99">
